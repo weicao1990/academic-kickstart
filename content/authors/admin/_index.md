@@ -65,7 +65,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am currently a researcher at Microsoft Research Asia (MSRA), Machine Learning Group, headed by Professor [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). I received my Ph.D. degree from Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in 2018, under the supervision of Prof. [Jian Li](http://people.iiis.tsinghua.edu.cn/~jianli/). Before that, I received the B. Sc degree from Department of Computer Science at Wuhan University in 2013.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have a wide range of research interests on AI related topics, including Quantitive Trading, Intelligent Logistics, Networking Optimization etc.
