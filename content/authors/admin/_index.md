@@ -64,3 +64,5 @@ user_groups:
 I am currently a researcher at Microsoft Research Asia (MSRA), Machine Learning Group, headed by Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). I received my Ph.D. degree from Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in 2018, under the supervision of Prof. [Jian Li](http://people.iiis.tsinghua.edu.cn/~jianli/). Before that, I received the B. Sc degree from Department of Computer Science at Wuhan University in 2013.
 
 I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Logistics, Networking Optimization etc. In the past one year, we cooperated with China-AMC, China-Taiping, Shunfeng-Tech, FETnet and many other compannies, to together explore the new opportunities for AI in their own domains. I really enjoy solving problems in complex reality from different domains with AI technique.
+
+***HIRING*** I am seeking for self-motived interns who have interests on time series, tabular data and AutoML. Feel free to contact me if you are interested.
