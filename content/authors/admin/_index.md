@@ -45,6 +45,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=dS8IyeIAAAAJ
+- icon: strava
+  icon_pack: fab
+  link: https://www.strava.com/athletes/39523325
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -65,4 +68,4 @@ I am currently a researcher at Microsoft Research Asia (MSRA), Machine Learning 
 
 I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Logistics, Networking Optimization etc. In the past one year, we cooperated with China-AMC, China-Taiping, Shunfeng-Tech, FETnet and many other compannies, to together explore the new opportunities for AI in different domains. I really enjoy solving real industrial problems from various areas with AI technique.
 
-***HIRING:*** I am seeking for self-motived interns who have interests on time series, tabular data and AutoML. Feel free to contact me if you are interested.
+***HIRING:*** I am seeking for self-motived interns who have interests on time series, tabular data and autoML. Feel free to contact me if you are interested.
