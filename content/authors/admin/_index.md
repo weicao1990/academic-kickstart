@@ -65,4 +65,4 @@ I am currently a researcher at Microsoft Research Asia (MSRA), Machine Learning 
 
 I have a wide range of research interests on applied machine learning, including Quantitive Trading, Intelligent Logistics, Networking Optimization etc. In the past one year, we cooperated with China-AMC, China-Taiping, Shunfeng-Tech, FETnet and many other compannies, to together explore the new opportunities for AI in their own domains. I really enjoy solving problems in complex reality from different domains with AI technique.
 
-***HIRING*** I am seeking for self-motived interns who have interests on time series, tabular data and AutoML. Feel free to contact me if you are interested.
+***HIRING:*** I am seeking for self-motived interns who have interests on time series, tabular data and AutoML. Feel free to contact me if you are interested.
